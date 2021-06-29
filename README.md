@@ -31,15 +31,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Notes 
-Modules: 
+## Modules: 
 
-declarations: 
+## declarations: 
 	List of component, pipes, directives that are created in this module
-imports 
+  
+## imports 
 	List of other odules that this module depends upon
-exports
+  
+## exports
 	List of components, pipes, directive that this module makes it available to other modules
-Providers
+  
+## Providers
 	Old way o fconnecting modules and services
-Boostrap
+  
+## Boostrap
 	used by the AppModule only to declare what component will be displayed first
