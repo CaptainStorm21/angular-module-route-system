@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
+
+Notes 
+Modules: 
+
+declarations: 
+	List of component, pipes, directives that are created in this module
+imports 
+	List of other odules that this module depends upon
+exports
+	List of components, pipes, directive that this module makes it available to other modules
+Providers
+	Old way o fconnecting modules and services
+Boostrap
+	used by the AppModule only to declare what component will be displayed first
